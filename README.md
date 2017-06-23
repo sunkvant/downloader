@@ -55,7 +55,8 @@ http://mathprofi.ru/trigonometricheskie_tablicy.pdf trigonometricheskie_tablicy.
 
 <links>
 
-	<link>	<url>http://lostfilm.info/images/photo/100/21037471_992911.jpg</url>
+	<link>	
+		<url>http://lostfilm.info/images/photo/100/21037471_992911.jpg</url>
 		<filename>1.jpg</filename>
 	</link>
 
